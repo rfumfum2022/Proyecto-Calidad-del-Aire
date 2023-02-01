@@ -19,8 +19,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 *[Código ARDUINO](#Código-ARDUINO)
 
-*[Código PYTHON](#Código-PYTHON)
-* [https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/Plantilla_CO2.ipynb]
+*[https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/Plantilla_CO2.ipynb](#Código-PYTHON)
 
 *[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 * [Montaje de cajas de registro](#Montaje-cajas-de-registro)

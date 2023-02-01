@@ -7,19 +7,19 @@ Proyecto de centro de secundaria sobre calidad del aire CO2(ppm), temperatura(º
 
 *[Fundamentos Científicos](#Fundamentos-Científicos)
 
-*[Índice](#índice)
+*[Objetivos 20/30](#Objetivos-20/30)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+*[Inventario](#Inventario)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+*[Montaje Prototipo](#Montaje-Prototipo)
 
-*[Acceso al proyecto](#acceso-proyecto)
+*[Código ARDUINO](#Código-ARDUINO)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+*[Código PYTHON](#Código-PYTHON)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+*[ETAPAS del PROYECTO](#ETAPAS del PROYECTO)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 

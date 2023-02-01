@@ -19,7 +19,7 @@ Proyecto de centro de secundaria sobre calidad del aire CO2(ppm), temperatura(º
 
 *[Código PYTHON](#Código-PYTHON)
 
-*[ETAPAS del PROYECTO](#ETAPAS del PROYECTO)
+*[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 

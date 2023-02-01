@@ -20,7 +20,7 @@ Proyecto de centro de secundaria sobre calidad del aire CO2(ppm), temperatura(º
 *[Código PYTHON](#Código-PYTHON)
 
 *[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
-* [Montaje de cajs de registro](#Montaje-cajas-de-registro)
+* [Montaje de cajas de registro](#Montaje-cajas-de-registro)
 * [IoT en la nube](#IoT-en-la-nube)
 * [Programación en PYTHON](#Programación-en-Python)
 * [Google COLABORATOTY](#Google-COLABORATORY)

@@ -3,9 +3,9 @@ Proyecto de centro de secundaria sobre calidad del aire CO2(ppm), temperatura(º
 
 ## Índice
 
-*[Título e imagen de portada](#Introducción-del-Proyecto)
+*[Introducción del Proyecto](#Introducción-del-Proyecto)
 
-*[Insignias](#insignias)
+*[Fundamentos Científicos](#Fundamentos Científicos)
 
 *[Índice](#índice)
 

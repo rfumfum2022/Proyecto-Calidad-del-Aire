@@ -1,7 +1,7 @@
 # Proyecto-Calidad-del-Aire
 Proyecto de centro de secundaria sobre calidad del aire CO2(ppm), temperatura(ºC) y humedad(%). Registrar datos en la nube a tiempo real (IoT)
-en la plataforma THINGSPEAK, para su posterior recuperación en formato .CSV. Finalmente el alumnado hará un tratamiento de datos con la librería
-PANDAS, una de las más conocidas de PYTHON.
+en la plataforma THINGSPEAK, para su posterior recuperación en formato .CSV. Finalmente el alumnado hará DATA-SIENCE, tratando los datos con 
+la librería PANDAS, una de las más conocidas de PYTHON.
 
 ## Índice
 

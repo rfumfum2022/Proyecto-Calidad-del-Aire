@@ -17,9 +17,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 *[Montaje Prototipo](#Montaje-Prototipo)
 
-<a href="{[video-montaje-br_h7NyYam3.webm](https://user-images.githubusercontent.com/59457645/216447054-da8a6d21-0b2c-4c1f-8f52-006b276b02eb.webm)
-}" title="VIDEO MONTAJE PROTOTIPO"><img src="{image-url}" alt="VIDEO MONTAJE PROTOTIPO" /></a>
-
+https://user-images.githubusercontent.com/59457645/216447742-76ae2fde-001a-4200-9e1f-d442c32ef685.mp4
 
 [video-montaje-br_h7NyYam3.webm](https://user-images.githubusercontent.com/59457645/216447054-da8a6d21-0b2c-4c1f-8f52-006b276b02eb.webm)
 

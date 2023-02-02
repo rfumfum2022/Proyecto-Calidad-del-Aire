@@ -21,7 +21,7 @@ Hay que recordar que estas concentraciones de CO2 están muy lejos de ser perjud
 
 <center>
   
-  <img width="438" alt="Indices CO2" src="https://user-images.githubusercontent.com/59457645/216457621-f19b2ee1-5438-4ce8-8e22-aee5cefed786.png" align=”middle”>
+  <img width="438" alt="Indices CO2" src="https://user-images.githubusercontent.com/59457645/216457621-f19b2ee1-5438-4ce8-8e22-aee5cefed786.png"> align=”middle”>
   
 </center>
   

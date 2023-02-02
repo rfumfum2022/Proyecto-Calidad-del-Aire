@@ -19,7 +19,9 @@ Se establece que para garantizar una correcta ventilación los niveles de CO2 no
 
 Hay que recordar que estas concentraciones de CO2 están muy lejos de ser perjudiciales para la respiración humana y sólo deben interpretarse como indicador para la necesidad de ventilación. 
 
+<div align="center">
 <img width="438" align=”middle” alt="Indices CO2" src="https://user-images.githubusercontent.com/59457645/216457621-f19b2ee1-5438-4ce8-8e22-aee5cefed786.png" >
+</div>
   
 *[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
 

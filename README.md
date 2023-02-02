@@ -13,19 +13,19 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 <p align="justify">
 La tasa de ventilación aconsejada para conseguir una calidad de aire buena es de 12,5 litros/segundo y persona y se corresponde aproximadamente a 56 renovaciones/hora. Esta tasa de ventilación puede conseguirse aumentando el caudal de aire exterior aportado por medios naturales (abriendo puertas y ventanas durante el tiempo que se estime necesario según las características de cada espacio) o mecánicos o bien reduciendo la ocupación del local. 
 
-El tiempo de ventilación depende de múltiples factores, que varían de un aula a otra ($\m^3$, grado de ocupación, actividad realizada, orientación, condiciones ambientales exteriores, etc.). Para determinar cuánto tiempo es necesario tener las ventanas abiertas se puede calcular la concentración de CO2 en el aire que es un buen indicador de la tasa de renovación de un espacio. 
+El tiempo de ventilación depende de múltiples factores, que varían de un aula a otra (m<sup>3</sup>, grado de ocupación, actividad realizada, orientación, condiciones ambientales exteriores, etc.). Para determinar cuánto tiempo es necesario tener las ventanas abiertas se puede calcular la concentración de CO<sub>2</sub> en el aire que es un buen indicador de la tasa de renovación de un espacio. 
 
-En el exterior, las concentraciones de CO2 son de aproximadamente 420-450 ppm (partes por millón)1, aunque pueden variar en entornos urbanos o rurales. Cuando un edificio está ocupado, las concentraciones de CO2 en el interior son elevadas por el CO2 exhalado por sus ocupantes.   
+En el exterior, las concentraciones de CO<sub>2</sub> son de aproximadamente **420-450 ppm** (partes por millón)1, aunque pueden variar en entornos urbanos o rurales. Cuando un edificio está ocupado, las concentraciones de CO<sub>2</sub> en el interior son elevadas por el CO<sub>2</sub> exhalado por sus ocupantes.   
 
-Se establece que para garantizar una correcta ventilación los niveles de CO2 no deberían superar el umbral de 800-1000 ppm. Cuando se superan las 1000 ppm (partes por millón) se debe ventilar hasta reducir la concentración a 800ppm. (Como referencia, la concentración de CO2 en exterior es de 420 ppm). 
+Se establece que para garantizar una correcta ventilación los niveles de CO<sub>2</sub> no deberían superar el umbral de **800-1000 ppm**. Cuando se superan las **1000 ppm** (partes por millón) se debe ventilar hasta reducir la concentración a **800 ppm**. (Como referencia, la concentración de CO<sub>2</sub> en exterior es de **420 ppm**). 
 
-Hay que recordar que estas concentraciones de CO2 están muy lejos de ser perjudiciales para la respiración humana y sólo deben interpretarse como indicador para la necesidad de ventilación. 
+Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de ser perjudiciales para la respiración humana y sólo deben interpretarse como indicador para la necesidad de ventilación. 
   
 </p>
 </div>
   
 <div align="center">
-<img width="438" align=”middle” alt="Indices CO2" src="https://user-images.githubusercontent.com/59457645/216457621-f19b2ee1-5438-4ce8-8e22-aee5cefed786.png" >
+<img width="538" height="138" align=”middle” alt="Indices CO2" src="https://user-images.githubusercontent.com/59457645/216457621-f19b2ee1-5438-4ce8-8e22-aee5cefed786.png" >
 </div>
   
 *[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
@@ -46,7 +46,6 @@ Hay que recordar que estas concentraciones de CO2 están muy lejos de ser perjud
 | 8-Set 40 cables Dupont 20 cm macho-hembra 1 y macho-macho | 2,8972 € / 1 Unidad   |
 | 9-Caja de registro electrónico | 1,5 € / 1 Unidad |
 | (Precios aproximados) |
-
 
 *[Montaje Prototipo](#Montaje-Prototipo)
 

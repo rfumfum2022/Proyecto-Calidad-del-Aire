@@ -17,9 +17,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 *[Montaje Prototipo](#Montaje-Prototipo)
 
-
-https://user-images.githubusercontent.com/59457645/216444014-807ce943-8d6e-4de4-9b4f-a480dc2747cc.mp4
-
+[video-montaje-br_h7NyYam3.webm](https://user-images.githubusercontent.com/59457645/216447054-da8a6d21-0b2c-4c1f-8f52-006b276b02eb.webm)
 
 *[Código ARDUINO](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/IES_Andres_Bello_MQ_135_CO2_Calibrado_LOGO.ino)
 

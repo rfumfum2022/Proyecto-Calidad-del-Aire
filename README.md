@@ -10,7 +10,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 *[Fundamentos Científicos](https://www.uam.es/uam/media/doc/1606849471777/plan-de-medicion-de-co2-en-espacios-docentes.pdf)
 
 <div align="justify">
-<p align="justify">
+
 La tasa de ventilación aconsejada para conseguir una calidad de aire buena es de 12,5 litros/segundo y persona y se corresponde aproximadamente a 56 renovaciones/hora. Esta tasa de ventilación puede conseguirse aumentando el caudal de aire exterior aportado por medios naturales (abriendo puertas y ventanas durante el tiempo que se estime necesario según las características de cada espacio) o mecánicos o bien reduciendo la ocupación del local. 
 
 El tiempo de ventilación depende de múltiples factores, que varían de un aula a otra (m<sup>3</sup>, grado de ocupación, actividad realizada, orientación, condiciones ambientales exteriores, etc.). Para determinar cuánto tiempo es necesario tener las ventanas abiertas se puede calcular la concentración de CO<sub>2</sub> en el aire que es un buen indicador de la tasa de renovación de un espacio. 
@@ -21,7 +21,7 @@ Se establece que para garantizar una correcta ventilación los niveles de CO<sub
 
 Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de ser perjudiciales para la respiración humana y sólo deben interpretarse como indicador para la necesidad de ventilación. 
   
-</p>
+
 </div>
   
 <div align="center">
@@ -29,6 +29,11 @@ Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de
 </div>
   
 *[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
+
+<div align="justify">
+   En la Cumbre Mundial para el Desarrollo Sostenible de 2015 los Estados Miembros de la ONU aprobaron la Agenda 2030 para el Desarrollo Sostenible1, con el fin de erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todas las personas para el año 2030. Este acuerdo es un llamado universal para la lucha a favor del desarrollo humano sostenible en todo el planeta y para ello define 17 objetivos, los denominados “Objetivos de Desarrollo Sostenible (ODS)”, que contienen a su vez 169 metas. 
+   El desarrollo sostenible se plantea como la integración de forma equilibrada de las tres dimensiones del desarrollo: la social, la económica y la ambiental. En la dimensión social, entre otros muchos aspectos, se plantea la erradicación de la pobreza como uno de los mayores desafíos que enfrenta el mundo y un requisito indispensable para el desarrollo sostenible. En el ámbito económico, se plantea establecer condiciones para un crecimiento económico inclusivo y sostenido, una prosperidad compartida y el trabajo decente para todas las personas. En la dimensión ambiental, junto con la protección del planeta y sus recursos naturales, incluye la definición del informe Brundtland de “satisfacer las necesidades del presente sin comprometer las necesidades de las futuras generaciones”. 
+</div>  
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 

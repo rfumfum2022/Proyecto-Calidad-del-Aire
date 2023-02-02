@@ -9,7 +9,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 *[Fundamentos Científicos](#Fundamentos-Científicos)
 
-*[Objetivos 20/30](#Objetivos-20/30)
+*[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 

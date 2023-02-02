@@ -13,7 +13,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 <p align="justify">
 La tasa de ventilación aconsejada para conseguir una calidad de aire buena es de 12,5 litros/segundo y persona y se corresponde aproximadamente a 56 renovaciones/hora. Esta tasa de ventilación puede conseguirse aumentando el caudal de aire exterior aportado por medios naturales (abriendo puertas y ventanas durante el tiempo que se estime necesario según las características de cada espacio) o mecánicos o bien reduciendo la ocupación del local. 
 
-El tiempo de ventilación depende de múltiples factores, que varían de un aula a otra ($m^3$, grado de ocupación, actividad realizada, orientación, condiciones ambientales exteriores, etc.). Para determinar cuánto tiempo es necesario tener las ventanas abiertas se puede calcular la concentración de CO2 en el aire que es un buen indicador de la tasa de renovación de un espacio. 
+El tiempo de ventilación depende de múltiples factores, que varían de un aula a otra ($\m^3$, grado de ocupación, actividad realizada, orientación, condiciones ambientales exteriores, etc.). Para determinar cuánto tiempo es necesario tener las ventanas abiertas se puede calcular la concentración de CO2 en el aire que es un buen indicador de la tasa de renovación de un espacio. 
 
 En el exterior, las concentraciones de CO2 son de aproximadamente 420-450 ppm (partes por millón)1, aunque pueden variar en entornos urbanos o rurales. Cuando un edificio está ocupado, las concentraciones de CO2 en el interior son elevadas por el CO2 exhalado por sus ocupantes.   
 

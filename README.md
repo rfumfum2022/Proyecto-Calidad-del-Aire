@@ -8,7 +8,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 *[Introducción del Proyecto](#Introducción-del-Proyecto)
 
 *[Fundamentos Científicos](https://www.uam.es/uam/media/doc/1606849471777/plan-de-medicion-de-co2-en-espacios-docentes.pdf)
-<p class="text-align-justify">
+<p align="justify">
 La tasa de ventilación aconsejada para conseguir una calidad de aire buena es de 12,5 litros/segundo y persona y se corresponde aproximadamente a 56 renovaciones/hora. Esta tasa de ventilación puede conseguirse aumentando el caudal de aire exterior aportado por medios naturales (abriendo puertas y ventanas durante el tiempo que se estime necesario según las características de cada espacio) o mecánicos o bien reduciendo la ocupación del local. 
 
 El tiempo de ventilación depende de múltiples factores, que varían de un aula a otra (m3, grado de ocupación, actividad realizada, orientación, condiciones ambientales exteriores, etc.). Para determinar cuánto tiempo es necesario tener las ventanas abiertas se puede calcular la concentración de CO2 en el aire que es un buen indicador de la tasa de renovación de un espacio. 

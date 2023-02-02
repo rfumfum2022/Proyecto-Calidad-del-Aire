@@ -14,9 +14,9 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 *[Descripción del proyecto](#descripción-del-proyecto)
 
 *[Inventario](#Inventario)
- *[1-WeMos D1 ESP8266 WiFi 5,5600 € / 1 Unidad
- 2- Mini Protoboard 25 puntos 0,9813 € / 1 Unidad
- 3-Cable Micro USB 50 cm  1,7300 € / 1 Unidad
+ *[1-WeMos D1 ESP8266 WiFi 5,5600 € / 1 Unidad]
+ *[2- Mini Protoboard 25 puntos 0,9813 € / 1 Unidad]
+ *[3-Cable Micro USB 50 cm  1,7300 € / 1 Unidad]
  4-Módulo con sensor de temperatura y humedad DHT22 5,9346 € / 1 Unidad
  5-Convertidor DC-DC LM2596 1,25-30V 3A Step-Down HW-411 2,4299 € / 1 Unidad
  6-Fuente de alimentación 12V 2A con conector DC Jack 12,9000 € / 1 Unidad

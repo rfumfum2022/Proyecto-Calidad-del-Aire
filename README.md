@@ -197,7 +197,7 @@ En resumen, Python es un lenguaje de programación popular, fácil de aprender y
 
 ____________________________________________________________________________________________________________________________________________________
 
-#ETAPAS del PROYECTO
+# ETAPAS del PROYECTO
 
 *[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 

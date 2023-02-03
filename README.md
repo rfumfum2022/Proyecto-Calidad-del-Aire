@@ -296,7 +296,7 @@ ________________________________________________________________________________
 <div align="justify">
 
   Autor: **Rosendo Fumero Fumero**
-  - Licenciado en Ciencias Física-Teórica
+  - Licenciado en Física-Teórica
   - Profesor de Consejería de Educación Cultura y Deportes de Canarias
 </div>  
 

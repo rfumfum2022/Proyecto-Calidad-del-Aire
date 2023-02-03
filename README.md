@@ -9,7 +9,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 * 2-[Fundamentos Científicos](#Fundamentos-Científicos)
 
-* 3-[Objetivos 20/30](#Objetivos-20/30)
+* 3-[Objetivos 2030](#Objetivos-2030)
 
 * 4-[Descripción del proyecto](#Descripción-del-proyecto)
 
@@ -86,9 +86,9 @@ Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de
   
  _______________________________________________________________________________________________________________________________________________________
  
- # Objetivos 20/30
+ # Objetivos 2030
  
-*[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
+*[Objetivos 2030](https://www.un.org/sustainabledevelopment/es/biodiversity/)
 
 <div align="justify">
   

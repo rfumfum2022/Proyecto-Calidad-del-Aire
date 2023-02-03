@@ -7,19 +7,19 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 * 1-[Introducción del Proyecto](#Introducción-del-Proyecto)
 
-* 2-[Fundamentos Científicos](https://www.uam.es/uam/media/doc/1606849471777/plan-de-medicion-de-co2-en-espacios-docentes.pdf)
+* 2-[Fundamentos Científicos](#Fundamentos-Científicos)
 
-* 3-[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
+* 3-[Objetivos 20/30](#Objetivos 20/30)
 
-* 4-[Descripción del proyecto](#descripción-del-proyecto)
+* 4-[Descripción del proyecto](#Descripción-del-proyecto)
 
 * 5-[Inventario](#Inventario)
 
 * 6-[Montaje Prototipo](#Montaje-Prototipo)
 
-* 7-[Código ARDUINO](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/IES_Andres_Bello_MQ_135_CO2_Calibrado_LOGO.ino)
+* 7-[Código ARDUINO](#Código-ARDUINO)
 
-* 8-[Código PYTHON](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/Plantilla_CO2.ipynb)
+* 8-[Código PYTHON](#Código-PYTHON)
 
 * 9-[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 
@@ -33,11 +33,11 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
    * 9.5- [Google COLABORATOTY](#Google-COLABORATORY)
 
-* 10-[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* 10-[Personas-Desarrolladores del Proyecto](#Personas-desarrolladoras-del-Proyecto)
 
-* 11-[Licencia](#licencia)
+* 11-[Licencia](#Licencia)
 
-* 12-[Conclusión](#conclusión)
+* 12-[Conclusión](#Conclusión)
 
 __________________________________________________________________________________________________________________________________________________________
 

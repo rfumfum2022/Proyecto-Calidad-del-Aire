@@ -60,7 +60,9 @@ En resumen, el proyecto de medidor de CO<sub>2</sub> en la escuela es una inicia
 </div>  
   
 ______________________________________________________________________________________________________________________________________________________  
-  
+ 
+ # Fundamentos Científicos
+ 
 *[Fundamentos Científicos](https://www.uam.es/uam/media/doc/1606849471777/plan-de-medicion-de-co2-en-espacios-docentes.pdf)
 
 <div align="justify">
@@ -83,7 +85,9 @@ Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de
 </div>
   
  _______________________________________________________________________________________________________________________________________________________
-  
+ 
+ # Objetivos 20/30
+ 
 *[Objetivos 20/30](https://www.un.org/sustainabledevelopment/es/biodiversity/)
 
 <div align="justify">
@@ -98,6 +102,8 @@ Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de
 </div>  
 
 ________________________________________________________________________________________________________________________________________________________
+
+# Descripción del proyecto
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
@@ -118,6 +124,8 @@ En resumen, este proyecto es una oportunidad para los estudiantes y profesores p
 </div>  
   
 ________________________________________________________________________________________________________________________________________________________
+  
+# Inventario  
   
 *[Inventario](#Inventario)
 
@@ -140,6 +148,8 @@ ________________________________________________________________________________
   
 _______________________________________________________________________________________________________________________________________________________
 
+# Montaje Prototipo
+
 *[Montaje Prototipo](#Montaje-Prototipo)
 
 <div align="center">
@@ -149,6 +159,8 @@ https://user-images.githubusercontent.com/59457645/216448394-0041b0fe-fd36-4569-
 </div>
 
 ___________________________________________________________________________________________________________________________________________________
+
+# Código ARDUINO
 
 *[Código ARDUINO](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/IES_Andres_Bello_MQ_135_CO2_Calibrado_LOGO.ino)
 
@@ -167,6 +179,8 @@ En resumen, Arduino es una herramienta poderosa y versátil que permite a los de
 
 __________________________________________________________________________________________________________________________________________________
 
+# Código PYTHON
+
 *[Código PYTHON](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/Plantilla_CO2.ipynb)
 
 <div align="justify">
@@ -182,6 +196,8 @@ En resumen, Python es un lenguaje de programación popular, fácil de aprender y
 </div> 
 
 ____________________________________________________________________________________________________________________________________________________
+
+#ETAPAS del PROYECTO
 
 *[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 * [Montaje de cajas de registro](#Montaje-cajas-de-registro)
@@ -208,6 +224,8 @@ En resumen, un medidor de CO<sub>2</sub> IoT es un dispositivo que permite medir
   
 </div>  
 
+# DATA SCIENCE
+
 * [DATA SCIENCE](#DATA-SCIENCE)
 
 <div align="justify">
@@ -221,6 +239,8 @@ Los métodos utilizados en Data Science incluyen aprendizaje automático, miner�
 En resumen, Data Science es una disciplina interdisciplinaria que utiliza métodos y herramientas de estadística, matemáticas, programación y análisis de datos para comprender y extraer información valiosa de grandes conjuntos de datos. Los profesionales de Data Science trabajan con grandes conjuntos de datos para crear modelos predictivos, clasificar información, identificar relaciones y patrones en los datos y presentar sus hallazgos de manera clara y concisa.
   
 </div>
+
+# Programación en PYTHON
 
 * [Programación en PYTHON](#Programación-en-Python)
 
@@ -238,6 +258,8 @@ Algunas de las características de Python incluyen:
   En resumen, Python es un lenguaje de programación de alto nivel que se utiliza para una amplia variedad de tareas, con una sintaxis clara y legible, tipado dinámico, una amplia gama de bibliotecas y paquetes, y capacidades multiparadigma.
   
 </div> 
+
+# Google COLABORATORY
 
 * [Google COLABORATORY](#Google-COLABORATORY)
 
@@ -259,6 +281,8 @@ En resumen, Google Colaboratory es un entorno de desarrollo en línea basado en 
   
 __________________________________________________________________________________________________________________________________________________
 
+#Personas Desarrolladoras del Proyecto 
+
 *[Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 
 <div align="justify">
@@ -270,8 +294,12 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________
 
+# Licencia
+
 * [Licencia](#licencia)
 
 ____________________________________________________________________________________________________________________________________________________
+
+# Conclusión
 
 *[Conclusión](#conclusión)

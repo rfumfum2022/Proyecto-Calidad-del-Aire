@@ -222,7 +222,7 @@ ________________________________________________________________________________
 
 <div align="justify">
 
-El Internet de las cosas (IoT) es un concepto que se refiere a la conexión de dispositivos físicos a internet para recopilar y compartir datos. Un medidor de CO<sub>2</sub> IoT es un dispositivo que mide la concentración de dióxido de carbono en el aire y envía los datos a un servidor o plataforma en la nube para su análisis y visualización.
+El [Internet de las cosas (IoT) es un concepto que se refiere a la conexión de dispositivos físicos a internet para recopilar y compartir datos](https://thingspeak.com/). Un medidor de CO<sub>2</sub> IoT es un dispositivo que mide la concentración de dióxido de carbono en el aire y envía los datos a un servidor o plataforma en la nube para su análisis y visualización.
 
 El funcionamiento de un medidor de CO<sub>2</sub> IoT depende de los sensores y la tecnología utilizados. Los sensores pueden medir la concentración de dióxido de carbono con una precisión precisa y transmitir los datos a través de un microcontrolador, como una placa de desarrollo de Arduino o Raspberry Pi. Estos datos se pueden enviar a un servidor en la nube mediante una conexión Wi-Fi o Ethernet y visualizados en una aplicación web o móvil.
 
@@ -260,7 +260,7 @@ Algunas de las características de Python incluyen:
 
 - Interprete: Python es un lenguaje interpretado, lo que significa que no se requiere compilación previa para ejecutar el código.
 - Tipado dinámico: Python utiliza un tipado dinámico, lo que significa que los tipos de datos se determinan en tiempo de ejecución, en lugar de ser especificados en tiempo de compilación.
-- Amplia gama de bibliotecas y paquetes: Python cuenta con una amplia gama de bibliotecas y paquetes, como NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Pygame, entre otros, que proporcionan una gran cantidad de funcionalidades para desarrolladores.
+- Amplia gama de bibliotecas y paquetes: Python cuenta con una amplia gama de bibliotecas y paquetes, como [NumPy, Pandas, Matplotlib, Seaborn](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/python-cheatsheets.pdf), TensorFlow, Pygame, entre otros, que proporcionan una gran cantidad de funcionalidades para desarrolladores.
 - Multiparadigma: Python es un lenguaje multiparadigma, lo que significa que admite programación orientada a objetos, funcional y procedimental.
 
   En resumen, Python es un lenguaje de programación de alto nivel que se utiliza para una amplia variedad de tareas, con una sintaxis clara y legible, tipado dinámico, una amplia gama de bibliotecas y paquetes, y capacidades multiparadigma.

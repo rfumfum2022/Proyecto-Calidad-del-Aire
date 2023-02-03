@@ -23,7 +23,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 * 9-[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 
-   * 9.1- [Montaje de cajas de registro](#Montaje-cajas-de-registro)
+   * 9.1- [Montaje de cajas de registro](#Montaje-de-cajas-de-registro)
 
    * 9.2- [IoT en la nube](#IoT-en-la-nube)
 
@@ -200,7 +200,10 @@ ________________________________________________________________________________
 #ETAPAS del PROYECTO
 
 *[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
-* [Montaje de cajas de registro](#Montaje-cajas-de-registro)
+
+# Montaje de cajas de registro
+
+* [Montaje de cajas de registro](#Montaje-de-cajas-de-registro)
 
 <div align="center">
 <img width="739" alt="Captura de pantalla 2022-07-12 a las 19 28 48" src="https://user-images.githubusercontent.com/59457645/216478053-403f97cc-e183-43c7-98cd-d0c6fb2b57ff.png">
@@ -209,6 +212,8 @@ ________________________________________________________________________________
 <div align="center">
 <img width="612" alt="Captura de pantalla 2022-07-12 a las 20 05 43" src="https://user-images.githubusercontent.com/59457645/216477984-524d8fae-a8b2-4aca-b337-5384a953b218.png">
 </div>
+
+# IoT en la nube
 
 * [IoT en la nube](#IoT-en-la-nube)
 
@@ -281,7 +286,7 @@ En resumen, Google Colaboratory es un entorno de desarrollo en línea basado en 
   
 __________________________________________________________________________________________________________________________________________________
 
-#Personas desarrolladoras del Proyecto 
+# Personas desarrolladoras del Proyecto 
 
 *[Personas desarrolladores del Proyecto](#personas-desarrolladores)
 

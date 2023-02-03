@@ -256,7 +256,7 @@ En resumen, Google Colaboratory es un entorno de desarrollo en línea basado en 
   
 __________________________________________________________________________________________________________________________________________________
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+*[Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 
 <div align="justify">
 

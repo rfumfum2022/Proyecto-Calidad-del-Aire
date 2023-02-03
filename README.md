@@ -254,7 +254,7 @@ En resumen, Data Science es una disciplina interdisciplinaria que utiliza métod
 
 <div align="justify">
 
-Python es un lenguaje de programación de alto nivel que se utiliza para una amplia variedad de tareas, incluyendo desarrollo de aplicaciones web, análisis de datos, automatización de tareas, inteligencia artificial y machine learning. Es conocido por su sintaxis clara y legible, lo que lo hace fácil de aprender y utilizar para programadores principiantes y experimentados.
+[Python es un lenguaje de programación de alto](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/python-cheatsheets.pdf) nivel que se utiliza para una amplia variedad de tareas, incluyendo desarrollo de aplicaciones web, análisis de datos, automatización de tareas, inteligencia artificial y machine learning. Es conocido por su sintaxis clara y legible, lo que lo hace fácil de aprender y utilizar para programadores principiantes y experimentados.
 
 Algunas de las características de Python incluyen:
 

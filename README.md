@@ -238,7 +238,7 @@ En resumen, un medidor de CO<sub>2</sub> IoT es un dispositivo que permite medir
 
 <div align="justify">
 
-Data Science es una disciplina que combina elementos de estadística, matemáticas, programación y análisis de datos para comprender y extraer información valiosa de grandes conjuntos de datos. La finalidad de la Data Science es resolver problemas complejos, ayudar a tomar decisiones informadas y descubrir patrones y tendencias en los datos.
+[Data Science](https://datascientest.com/es/data-science-definicion-problematica-y-casos-de-uso) es una disciplina que combina elementos de estadística, matemáticas, programación y análisis de datos para comprender y extraer información valiosa de grandes conjuntos de datos. La finalidad de la Data Science es resolver problemas complejos, ayudar a tomar decisiones informadas y descubrir patrones y tendencias en los datos.
 
 Los profesionales de Data Science trabajan con grandes conjuntos de datos, tanto estructurados como no estructurados, para crear modelos predictivos, clasificar información, identificar relaciones y patrones en los datos, y presentar sus hallazgos de manera clara y concisa.
 

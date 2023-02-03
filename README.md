@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 # Introducción del Proyecto
 
-*[Índice](## Índice)
+*[Índice](##Índice)
 
 <div align="justify">
   

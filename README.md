@@ -9,7 +9,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 * 2-[Fundamentos Científicos](#Fundamentos-Científicos)
 
-* 3-[Objetivos 20/30](#Objetivos 20/30)
+* 3-[Objetivos 20/30](#Objetivos-20/30)
 
 * 4-[Descripción del proyecto](#Descripción-del-proyecto)
 
@@ -33,7 +33,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
    * 9.5- [Google COLABORATOTY](#Google-COLABORATORY)
 
-* 10-[Personas-Desarrolladores del Proyecto](#Personas-desarrolladoras-del-Proyecto)
+* 10-[Personas desarrolladoras del Proyecto](#Personas-desarrolladoras-del-Proyecto)
 
 * 11-[Licencia](#Licencia)
 
@@ -281,9 +281,9 @@ En resumen, Google Colaboratory es un entorno de desarrollo en línea basado en 
   
 __________________________________________________________________________________________________________________________________________________
 
-#Personas Desarrolladoras del Proyecto 
+#Personas desarrolladoras del Proyecto 
 
-*[Personas Desarrolladores del Proyecto](#personas-desarrolladores)
+*[Personas desarrolladores del Proyecto](#personas-desarrolladores)
 
 <div align="justify">
 

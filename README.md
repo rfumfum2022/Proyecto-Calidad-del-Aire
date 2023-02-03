@@ -242,7 +242,7 @@ En resumen, un medidor de CO<sub>2</sub> IoT es un dispositivo que permite medir
 
 Los profesionales de Data Science trabajan con grandes conjuntos de datos, tanto estructurados como no estructurados, para crear modelos predictivos, clasificar información, identificar relaciones y patrones en los datos, y presentar sus hallazgos de manera clara y concisa.
 
-Los métodos utilizados en Data Science incluyen aprendizaje automático, minería de datos, análisis de texto, visualización de datos y análisis estadístico. Las herramientas utilizadas en Data Science incluyen lenguajes de programación como Python y R, librerías como NumPy, Pandas, Matplotlib y Seaborn, y plataformas de análisis de datos como Hadoop y Spark.
+Los métodos utilizados en Data Science incluyen aprendizaje automático, minería de datos, análisis de texto, visualización de datos y análisis estadístico. Las herramientas utilizadas en Data Science incluyen lenguajes de programación como [Python y R, librerías como NumPy, Pandas, Matplotlib y Seaborn](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/python-cheatsheets.pdf), y plataformas de análisis de datos como Hadoop y Spark.
 
 En resumen, Data Science es una disciplina interdisciplinaria que utiliza métodos y herramientas de estadística, matemáticas, programación y análisis de datos para comprender y extraer información valiosa de grandes conjuntos de datos. Los profesionales de Data Science trabajan con grandes conjuntos de datos para crear modelos predictivos, clasificar información, identificar relaciones y patrones en los datos y presentar sus hallazgos de manera clara y concisa.
   

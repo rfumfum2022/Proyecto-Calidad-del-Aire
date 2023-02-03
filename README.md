@@ -5,7 +5,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 ## Índice
 
-* 1-[Introducción del Proyecto](#[Introducción-del-Proyecto](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/README.md#Introducci%C3%B3n-del-Proyecto))
+* 1-[Introducción del Proyecto](#Introducción-del-Proyecto-)
 
 * 2-[Fundamentos Científicos](https://www.uam.es/uam/media/doc/1606849471777/plan-de-medicion-de-co2-en-espacios-docentes.pdf)
 

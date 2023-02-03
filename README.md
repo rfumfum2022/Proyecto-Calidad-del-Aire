@@ -23,7 +23,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 * 9-[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
 
-   * 9.1- [Montaje de cajas de registro](#Montaje-de-cajas-de-registro)
+   * 9.1- [Diagrama de las cajas de registro](#Diagrama-de-las-cajas-de-registro)
 
    * 9.2- [IoT en la nube](#IoT-en-la-nube)
 

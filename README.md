@@ -142,7 +142,7 @@ ________________________________________________________________________________
 | 7-Conector DC Jack Hembra 5,5 x 2,1 mm borna   | 0,6100 € / 1 Unidad |
 | 8-Set 40 cables Dupont 20 cm macho-hembra 1 y macho-macho | 2,8972 € / 1 Unidad   |
 | 9-Caja de registro electrónico | 1,5 € / 1 Unidad |
-| (Precios aproximados) |
+| (Precios aproximados) |TOTAL: 34,5443 |
 
 </div>  
   

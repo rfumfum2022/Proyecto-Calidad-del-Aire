@@ -228,11 +228,12 @@ Python es un lenguaje de programación de alto nivel que se utiliza para una amp
 
 Algunas de las características de Python incluyen:
 
-Interprete: Python es un lenguaje interpretado, lo que significa que no se requiere compilación previa para ejecutar el código.
-Tipado dinámico: Python utiliza un tipado dinámico, lo que significa que los tipos de datos se determinan en tiempo de ejecución, en lugar de ser especificados en tiempo de compilación.
-Amplia gama de bibliotecas y paquetes: Python cuenta con una amplia gama de bibliotecas y paquetes, como NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Pygame, entre otros, que proporcionan una gran cantidad de funcionalidades para desarrolladores.
-Multiparadigma: Python es un lenguaje multiparadigma, lo que significa que admite programación orientada a objetos, funcional y procedimental.
-En resumen, Python es un lenguaje de programación de alto nivel que se utiliza para una amplia variedad de tareas, con una sintaxis clara y legible, tipado dinámico, una amplia gama de bibliotecas y paquetes, y capacidades multiparadigma.
+- Interprete: Python es un lenguaje interpretado, lo que significa que no se requiere compilación previa para ejecutar el código.
+- Tipado dinámico: Python utiliza un tipado dinámico, lo que significa que los tipos de datos se determinan en tiempo de ejecución, en lugar de ser especificados en tiempo de compilación.
+- Amplia gama de bibliotecas y paquetes: Python cuenta con una amplia gama de bibliotecas y paquetes, como NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Pygame, entre otros, que proporcionan una gran cantidad de funcionalidades para desarrolladores.
+- Multiparadigma: Python es un lenguaje multiparadigma, lo que significa que admite programación orientada a objetos, funcional y procedimental.
+
+  En resumen, Python es un lenguaje de programación de alto nivel que se utiliza para una amplia variedad de tareas, con una sintaxis clara y legible, tipado dinámico, una amplia gama de bibliotecas y paquetes, y capacidades multiparadigma.
   
 </div> 
 

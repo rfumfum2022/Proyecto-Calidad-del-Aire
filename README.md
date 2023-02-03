@@ -204,7 +204,7 @@ ________________________________________________________________________________
 
 *[Índice](#Proyecto-Calidad-del-Aire)
 
-# Montaje de cajas de registro
+# Diagrama de las cajas de registro
 
 <div align="center">
 <img width="739" alt="Captura de pantalla 2022-07-12 a las 19 28 48" src="https://user-images.githubusercontent.com/59457645/216478053-403f97cc-e183-43c7-98cd-d0c6fb2b57ff.png">

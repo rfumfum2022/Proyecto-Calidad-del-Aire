@@ -88,11 +88,11 @@ Hay que recordar que estas concentraciones de CO<sub>2</sub> están muy lejos de
  
  # Objetivos 2030
  
-*[Objetivos 2030](https://www.un.org/sustainabledevelopment/es/biodiversity/)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
   
-   En la **Cumbre Mundial para el Desarrollo Sostenible de 2015 los Estados Miembros de la ONU aprobaron la Agenda 2030 para el Desarrollo Sostenible1, con el fin de erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todas las personas para el año 2030**. Este acuerdo es un llamado universal para la lucha a favor del desarrollo humano sostenible en todo el planeta y para ello **define 17 objetivos**, los denominados **“Objetivos de Desarrollo Sostenible (ODS)”**, que contienen a su vez **169 metas**. 
+   En la **[Cumbre Mundial para el Desarrollo Sostenible de 2015](https://www.un.org/sustainabledevelopment/es/biodiversity/) los Estados Miembros de la ONU aprobaron la Agenda 2030 para el Desarrollo Sostenible1, con el fin de erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todas las personas para el año 2030**. Este acuerdo es un llamado universal para la lucha a favor del desarrollo humano sostenible en todo el planeta y para ello **define 17 objetivos**, los denominados **“Objetivos de Desarrollo Sostenible (ODS)”**, que contienen a su vez **169 metas**. 
   
    El desarrollo sostenible se plantea como la integración de forma equilibrada de las tres dimensiones del desarrollo: la social, la económica y la ambiental. 
 - En la dimensión social, entre otros muchos aspectos, se plantea la erradicación de la pobreza como uno de los mayores desafíos que enfrenta el mundo y un requisito indispensable para el desarrollo sostenible. 
@@ -105,7 +105,7 @@ ________________________________________________________________________________
 
 # Descripción del proyecto
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
 
@@ -127,7 +127,7 @@ ________________________________________________________________________________
   
 # Inventario  
   
-*[Inventario](#Inventario)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="center">
 
@@ -150,7 +150,7 @@ ________________________________________________________________________________
 
 # Montaje Prototipo
 
-*[Montaje Prototipo](#Montaje-Prototipo)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="center">
 
@@ -162,8 +162,9 @@ ________________________________________________________________________________
 
 # Código ARDUINO
 
-*[Código ARDUINO](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/IES_Andres_Bello_MQ_135_CO2_Calibrado_LOGO.ino)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
+*[ENLACE Código ARDUINO](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/IES_Andres_Bello_MQ_135_CO2_Calibrado_LOGO.ino)
 
 <div align="justify">
   
@@ -181,7 +182,9 @@ ________________________________________________________________________________
 
 # Código PYTHON
 
-*[Código PYTHON](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/Plantilla_CO2.ipynb)
+*[Índice](#Proyecto-Calidad-del-Aire)
+
+*[ENLACE Código PYTHON](https://github.com/rfumfum2022/Proyecto-Calidad-del-Aire/blob/main/Plantilla_CO2.ipynb)
 
 <div align="justify">
 
@@ -199,7 +202,7 @@ ________________________________________________________________________________
 
 # ETAPAS del PROYECTO
 
-*[ETAPAS del PROYECTO](#ETAPAS-del-PROYECTO)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 # Montaje de cajas de registro
 
@@ -215,7 +218,7 @@ ________________________________________________________________________________
 
 # IoT en la nube
 
-* [IoT en la nube](#IoT-en-la-nube)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
 
@@ -231,7 +234,7 @@ En resumen, un medidor de CO<sub>2</sub> IoT es un dispositivo que permite medir
 
 # DATA SCIENCE
 
-* [DATA SCIENCE](#DATA-SCIENCE)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
 
@@ -247,7 +250,7 @@ En resumen, Data Science es una disciplina interdisciplinaria que utiliza métod
 
 # Programación en PYTHON
 
-* [Programación en PYTHON](#Programación-en-Python)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
 
@@ -266,7 +269,7 @@ Algunas de las características de Python incluyen:
 
 # Google COLABORATORY
 
-* [Google COLABORATORY](#Google-COLABORATORY)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
 
@@ -288,7 +291,7 @@ ________________________________________________________________________________
 
 # Personas desarrolladoras del Proyecto 
 
-*[Personas desarrolladores del Proyecto](#personas-desarrolladores)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 <div align="justify">
 
@@ -301,10 +304,10 @@ ________________________________________________________________________________
 
 # Licencia
 
-* [Licencia](#licencia)
+*[Índice](#Proyecto-Calidad-del-Aire)
 
 ____________________________________________________________________________________________________________________________________________________
 
 # Conclusión
 
-*[Conclusión](#conclusión)
+*[Índice](#Proyecto-Calidad-del-Aire)

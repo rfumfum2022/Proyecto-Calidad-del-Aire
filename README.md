@@ -5,7 +5,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 ## Índice
 
-* 1-[Introducción del Proyecto](#Introducción-del-Proyecto-)
+* 1-[Introducción del Proyecto](#Introducción-del-Proyecto)
 
 * 2-[Fundamentos Científicos](https://www.uam.es/uam/media/doc/1606849471777/plan-de-medicion-de-co2-en-espacios-docentes.pdf)
 
@@ -41,7 +41,7 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 __________________________________________________________________________________________________________________________________________________________
 
-#INTRODUCCIóN DEL PROYECTO
+#Introducción del Proyecto
 
 *[Introducción del Proyecto](#Introducción-del-Proyecto)
 

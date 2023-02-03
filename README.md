@@ -41,6 +41,8 @@ la librería PANDAS, una de las más conocidas de PYTHON.
 
 __________________________________________________________________________________________________________________________________________________________
 
+#INTRODUCCIóN DEL PROYECTO
+
 *[Introducción del Proyecto](#Introducción-del-Proyecto)
 
 <div align="justify">
